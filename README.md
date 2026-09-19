@@ -1,11 +1,10 @@
-"# 67TheREVENGER-AIPostTrackingGame" 
+"67TheREVENGER-AIPostTrackingGame" 
 
 How To Play : 
 - Squat to Normal Attack
 - Tree pose to Heal
 - Jumping Jack to ULT (must be 67+ points)
 - T-pose for Ready, to start your action!!!
-..
 
 Concept Game: ศึกชำระแค้น บอสอาจารย์ผู้สูงศักดิ์ #2
 Prologue (จุดเริ่มต้น): คุณคือนักศึกษา (รหัส 67) ที่เพิ่งเดินคอตกออกจากห้องสอบไฟนอลวิชาสุดหิน สิ่งที่เจ็บปวดกว่าข้อสอบ คือรอยยิ้มเยาะเย้ยของอาจารย์ประจำวิชา ที่ยืนแสยะยิ้มสะใจเมื่อเห็นนักศึกษาทำข้อสอบของตัวเองไม่ได้
@@ -17,3 +16,5 @@ The Encounter (เผชิญหน้า): ขณะกำลังมึน�
 Action! (จุดปะทะ): บอสอาจารย์แสยะยิ้มกวนโอ๊ยอีกครั้ง ก่อนจะเปิดฉากทักทายด้วยการง้างมือ "ตบหน้า" คุณฉาดใหญ่จนหลอดเลือด (HP) ลดฮวบ!
 
 Game Start (เริ่มเกม): ถึงเวลาเอาคืน! ศึกดวลเทิร์นเบสระหว่าง "นักศึกษาผู้บอบช้ำ" กับ "บอสอาจารย์ผู้สูงศักดิ์" จึงเริ่มขึ้น?
+
+LINK : https://67therevenger.sorawit0162.workers.dev/
